@@ -21,8 +21,8 @@ public class DiscoveryResource {
                 + "\"version\":\"v1\","
                 + "\"contact\":\"adminSmartCampus@gmail.com\","
                 + "\"resources\":{"
-                + "\"rooms\":\"/api/v1/rooms\","
-                + "\"sensors\":\"/api/v1/sensors\""
+                + "\"rooms\":\"http://localhost:8080/SmartCampusAPI/api/v1/rooms\","
+                + "\"sensors\":\"http://localhost:8080/SmartCampusAPI/api/v1/sensors\""
                 + "}"
                 + "}";
     }
